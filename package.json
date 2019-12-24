@@ -1,0 +1,19 @@
+{
+  "name": "old-template-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrwdrv/old-template-engine.git"
+  },
+  "author": "scrwdrv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrwdrv/old-template-engine/issues"
+  },
+  "homepage": "https://github.com/scrwdrv/old-template-engine#readme"
+}
